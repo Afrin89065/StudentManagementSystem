@@ -15,7 +15,7 @@ while True:
 
     choice = input("Enter your choice: ")
 
-    if choice == "1ghghg":
+    if choice == "1":
         add_student()
 
     elif choice == "2":
